@@ -11,6 +11,7 @@
         img { width: 100%; height: auto; border-radius: 8px; border: 2px solid #ddd; }
         .verse-box { margin-bottom: 20px; padding: 15px; border-bottom: 2px solid #3498db; }
     </style>
+
 </head>
 <body>
     <div class="main-container">
