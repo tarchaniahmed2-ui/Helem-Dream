@@ -1,32 +1,40 @@
-<img width="720" height="1600" alt="Screenshot_20260525_011645_Photos" src="https://github.com/user-attachments/assets/bf4a2f3d-51e7-4146-a300-a46c23824ba2" />
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
     <title>مشروع أنوار القرآن</title>
     <style>
-        body { font-family: sans-serif; text-align: center; background-color: #f9f9f9; padding: 20px; }
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f9f9f9; padding: 20px; }
         .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
-        img { max-width: 100%; height: auto; border-radius: 10px;<img width="720" height="1053" alt="Screenshot_20260525_011645_Photos~2" src="https://github.com/user-attachments/assets/5d9355a9-fd35-4afe-aa34-c5245ce5f31b" />
-
-
- margin-top: 15px; }
+        .verse-box { margin-top: 20px; border: 1px solid #ddd; padding: 20px; border-radius: 10px; }
+        .verse-text { font-size: 1.6em; font-weight: bold; margin-bottom: 15px; }
+        .translation { font-style: italic; color: #555; margin-top: 10px; }
+        .reflection { margin-top: 20px; background-color: #f1f7f9; padding: 15px; border-right: 5px solid #2c3e50; text-align: right; }
     </style>
-    
 </head>
 <body>
-    <div class="container">
-        <h1>مشروع أنوار القرآن</h1>
-        <p>بقلم أحمد الطرشاني</p>
-        
-        <img src="1000032615.jpg" alt="واجهة المشروع">
-        
 
-        <div style="margin-top: 20px;">
-            <h3>تدبر الآيات الكريمة</h3>
-            <p>تدبر الآيات الكريمة، سؤال الناس بما تمس المؤسسة والقدرات الكريمة.</p>
+<div class="container">
+    <h1>مشروع أنوار القرآن</h1>
+    <p>بقلم: أحمد الطرشاني</p>
+
+    <!-- بداية عرض الآية 11 من سورة البقرة -->
+    <div class="verse-box">
+        <h3>سورة البقرة - الآية 11</h3>
+        <p class="verse-text">"وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا فِي الْأَرْضِ قَالُوا إِنَّمَا نَحْنُ مُصْلِحُونَ"</p>
+        
+        <div class="translation">
+            <p><strong>English:</strong> "And when it is said to them, 'Do not cause corruption on the earth,' they say, 'We are but reformers.'"</p>
+            <p><strong>Français:</strong> "Et quand on leur dit : « Ne semez pas la corruption sur la terre », ils disent : « Au contraire, nous ne sommes que des réformateurs »."</p>
+        </div>
+
+        <div class="reflection">
+            <h4>تدبر:</h4>
+            <p>[أضف هنا تأملاتك حول هذه الآية]</p>
         </div>
     </div>
+</div>
+
 </body>
 </html>
 
