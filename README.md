@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-    <meta charset="UTF-8">
-    <title>مشروع أنوار القرآن</title>
+
+
     <style>
         body { font-family: Arial, sans-serif; text-align: center; background-color: #f9f9f9; padding: 20px; }
         .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
