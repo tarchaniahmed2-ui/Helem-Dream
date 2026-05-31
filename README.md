@@ -7,8 +7,12 @@
     <style>
         body { font-family: sans-serif; text-align: center; background-color: #f9f9f9; padding: 20px; }
         .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
-        img { max-width: 100%; height: auto; border-radius: 10px; margin-top: 15px; }
+        img { max-width: 100%; height: auto; border-radius: 10px;<img width="720" height="1053" alt="Screenshot_20260525_011645_Photos~2" src="https://github.com/user-attachments/assets/5d9355a9-fd35-4afe-aa34-c5245ce5f31b" />
+
+
+ margin-top: 15px; }
     </style>
+    
 </head>
 <body>
     <div class="container">
