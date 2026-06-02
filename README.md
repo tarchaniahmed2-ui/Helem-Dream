@@ -1,3 +1,24 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="verse-box">
+        <p class="arabic" id="ayah-text">جاري تحميل الآية...</p>
+    </div>
+
+    <script>
+        fetch('Ayah_114.txt')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('ayah-text').innerText = data;
+            })
+            .catch(error => console.error('خطأ:', error));
+    </script>
+</body>
+</html>
 
 <img width="720" height="1053" alt="Screenshot_20260525_011645_Photos~2" src="https://github.com/user-attachments/assets/eac97329-ea15-4635-aa3b-17795d528883" />
 <!DOCTYPE html>
