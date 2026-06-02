@@ -12,6 +12,7 @@
         .verse-box { margin-bottom: 20px; padding: 15px; border-bottom: 2px solid #3498db; }
     </style>
 
+
 </head>
 <body>
     <div class="main-container">
